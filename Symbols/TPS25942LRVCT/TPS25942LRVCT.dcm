@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS25942LRVCT
+D 18V, 5A, 42m Current Limiting Power MUX eFuse w/Integrated Reverse Current Protection, IMON & PG
+K
+F http://www.ti.com/lit/gpn/tps25942l
+$ENDCMP
+#
+#End Doc Library

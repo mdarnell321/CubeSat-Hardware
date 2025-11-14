@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BUK9K13-60RAX
+D Mosfet Array 2 N-Channel (Dual) 60V 40A (Ta) 64W (Ta) Surface Mount LFPAK56D
+K
+F https://assets.nexperia.com/documents/data-sheet/BUK9K13-60RA.pdf
+$ENDCMP
+#
+#End Doc Library

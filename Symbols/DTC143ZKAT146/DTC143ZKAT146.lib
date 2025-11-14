@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model DTC143ZKAT146
+#/471761/1482114/2.50/3/4/Transistor BJT NPN
+DEF DTC143ZKAT146 Q 0 30 Y Y 1 F N
+F0 "Q" 550 50 50 H V L CNN
+F1 "DTC143ZKAT146" 550 -50 50 H V L CNN
+F2 "SOT95P280X130-3N" 550 -150 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/65f79013acac3be2ce67f49282ff3c06.pdf" 550 -250 50 H I L CNN
+F4 "ROHM, DTC143ZKAT146 NPN Digital Transistor, 100 mA 4.7 k, Ratio Of 0.1, 3-Pin SMT" 550 -350 50 H I L CNN "Description"
+F5 "1.3" 550 -450 50 H I L CNN "Height"
+F6 "755-DTC143ZKAT146" 550 -550 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/DTC143ZKAT146?qs=4kLU8WoGk0v8tgcgzo8ntQ%3D%3D" 550 -650 50 H I L CNN "Mouser Price/Stock"
+F8 "ROHM Semiconductor" 550 -750 50 H I L CNN "Manufacturer_Name"
+F9 "DTC143ZKAT146" 550 -850 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 2 0 0 100 R 50 50 0 0 I
+X ~ 1 400 -300 100 U 50 50 0 0 W
+X ~ 3 400 300 100 D 50 50 0 0 O
+P 2 0 1 20 300 100 300 -100 N
+P 2 0 1 6 300 50 400 150 N
+P 2 0 1 6 300 -50 400 -150 N
+P 2 0 1 6 400 -150 400 -200 N
+P 2 0 1 6 400 150 400 200 N
+P 2 0 1 6 100 0 300 0 N
+C 350 0 158 0 1 10 N
+P 4 0 1 10 330 -100 350 -80 370 -120 330 -100 F
+ENDDRAW
+ENDDEF
+#
+#End Library

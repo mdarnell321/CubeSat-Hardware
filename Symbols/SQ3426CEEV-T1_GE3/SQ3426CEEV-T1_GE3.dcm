@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SQ3426CEEV-T1_GE3
+D MOSFETs N-CHANNEL 60-V (D-S) 175C MOSFET
+K
+F https://www.vishay.com/docs/62147/sq3426ceev.pdf
+$ENDCMP
+#
+#End Doc Library

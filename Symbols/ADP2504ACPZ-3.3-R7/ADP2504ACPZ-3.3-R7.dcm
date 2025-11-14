@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADP2504ACPZ-3.3-R7
+D ANALOG DEVICES - ADP2504ACPZ-3.3-R7 - Buck-Boost Switching Regulator, Fixed, 2.3 V to 5 V In, 3.3 V/1 A Out, 2.5 MHz, LFCSP-10
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/adp2503_2504.pdf
+$ENDCMP
+#
+#End Doc Library

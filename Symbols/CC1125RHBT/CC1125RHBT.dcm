@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CC1125RHBT
+D Ultra-High performance Sub-1 GHz Transceiver for Narrowband Systems
+K
+F http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=CC1125&&fileType=pdf
+$ENDCMP
+#
+#End Doc Library

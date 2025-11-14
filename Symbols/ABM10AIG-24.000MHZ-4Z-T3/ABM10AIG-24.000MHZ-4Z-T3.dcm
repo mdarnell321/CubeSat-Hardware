@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ABM10AIG-24.000MHZ-4Z-T3
+D MEMS Crystal Oscillator 4MHz +/-50ppm 4-Pin SMD T/R
+K
+F https://abracon.com/AIGcrystals/ABM10AIG.pdf
+$ENDCMP
+#
+#End Doc Library

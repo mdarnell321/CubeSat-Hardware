@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAR46FILM
+D STMicroelectronics 100V 150mA, Dual Schottky Diode, 3-Pin SOT-23 BAR46FILM
+K
+F https://www.st.com/resource/en/datasheet/bar46.pdf
+$ENDCMP
+#
+#End Doc Library

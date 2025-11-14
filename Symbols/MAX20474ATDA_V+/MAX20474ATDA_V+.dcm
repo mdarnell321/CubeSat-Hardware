@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX20474ATDA_V+
+D 3.0V to 5.5V Input, 6V to 18V Output, Synchronous Boost Converter
+K
+F https://www.analog.com/MAX20474/datasheet
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS75533KTTR
+D Linear Voltage Regulator IC Positive Fixed 1 Output 5A DDPAK/TO-263-5
+K
+F https://www.ti.com/lit/ds/symlink/tps755.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1665566834409&ref_url=https%253A%252F%252Fwww.mouser.de%252F
+$ENDCMP
+#
+#End Doc Library

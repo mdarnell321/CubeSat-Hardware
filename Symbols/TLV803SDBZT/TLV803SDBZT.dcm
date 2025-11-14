@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLV803SDBZT
+D Texas Instruments TLV803SDBZT, Voltage Supervisor 2.99V max., 3-Pin SOT-23
+K
+F http://www.ti.com/lit/ds/symlink/tlv803.pdf
+$ENDCMP
+#
+#End Doc Library

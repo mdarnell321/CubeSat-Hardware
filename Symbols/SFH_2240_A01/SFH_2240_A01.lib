@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SFH_2240_A01
+#/17229529/1482114/2.50/4/3/Photodiode
+DEF SFH_2240_A01 D 0 30 Y Y 1 F N
+F0 "D" 750 300 50 H V L CNN
+F1 "SFH_2240_A01" 750 200 50 H V L CNN
+F2 "SFH2240A01" 750 100 50 H I L CNN
+F3 "https://dammedia.osram.info/media/resource/hires/osram-dam-23227890/SFH%202240%20A01_EN.pdf" 750 0 50 H I L CNN
+F4 "Photodiode 620nm 120pF 1V 60 2-SMD, No Lead, 2.65 x 2.65 -40~125C" 750 -100 50 H I L CNN "Description"
+F5 "0.95" 750 -200 50 H I L CNN "Height"
+F6 "720-SFH2240A01" 750 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/ams-OSRAM/SFH-2240-A01?qs=T%252BzbugeAwjjFSBEKp8QF2A%3D%3D" 750 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "ams OSRAM" 750 -500 50 H I L CNN "Manufacturer_Name"
+F9 "SFH 2240 A01" 750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X K_1 1 0 0 200 R 50 50 0 0 P
+X A_1 2 0 -300 200 R 50 50 0 0 P
+X K_2 3 0 -100 200 R 50 50 0 0 P
+X A_2 4 0 -200 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

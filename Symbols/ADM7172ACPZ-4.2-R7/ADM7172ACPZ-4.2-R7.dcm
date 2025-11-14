@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADM7172ACPZ-4.2-R7
+D LDO Regulator Pos 4.2V 2A Medical 8-Pin LFCSP EP T/R
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/adm7172.pdf
+$ENDCMP
+#
+#End Doc Library

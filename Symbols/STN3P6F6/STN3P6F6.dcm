@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STN3P6F6
+D STMicroelectronics STN3P6F6 P-channel MOSFET Transistor, 3 A, -60 V, 4-Pin SOT-223
+K
+F https://www.st.com/resource/en/datasheet/stn3p6f6.pdf
+$ENDCMP
+#
+#End Doc Library

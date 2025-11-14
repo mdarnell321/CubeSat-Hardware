@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TPS75533KTTR
+#/17077437/1482114/2.50/6/3/Integrated Circuit
+DEF TPS75533KTTR IC 0 30 Y Y 1 F N
+F0 "IC" 1150 300 50 H V L CNN
+F1 "TPS75533KTTR" 1150 200 50 H V L CNN
+F2 "TPS75533KTTR" 1150 100 50 H I L CNN
+F3 "https://www.ti.com/lit/ds/symlink/tps755.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1665566834409&ref_url=https%253A%252F%252Fwww.mouser.de%252F" 1150 0 50 H I L CNN
+F4 "Linear Voltage Regulator IC Positive Fixed 1 Output 5A DDPAK/TO-263-5" 1150 -100 50 H I L CNN "Description"
+F5 "5.13" 1150 -200 50 H I L CNN "Height"
+F6 "595-TPS75533KTTR" 1150 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS75533KTTR?qs=6zVL%252ByCp0mqT4W5UK3Eh%252Bg%3D%3D" 1150 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 1150 -500 50 H I L CNN "Manufacturer_Name"
+F9 "TPS75533KTTR" 1150 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~EN 1 0 0 200 R 50 50 0 0 P
+X IN 2 0 -100 200 R 50 50 0 0 P
+X GND_1 3 0 -200 200 R 50 50 0 0 P
+X OUTPUT 4 0 -300 200 R 50 50 0 0 P
+X FB/~PG 5 0 -400 200 R 50 50 0 0 P
+X GND_2 6 1300 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1100 100 1100 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

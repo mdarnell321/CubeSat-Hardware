@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMP3130L-7
+D MOSFET P-Channel 30V 3.5A SOT23 Diodes Inc DMP3130L-7 P-channel MOSFET Transistor, 3.5 A, -30 V, 3-Pin SOT-23
+K
+F https://www.diodes.com//assets/Datasheets/products_inactive_data/DMP3130L.pdf
+$ENDCMP
+#
+#End Doc Library

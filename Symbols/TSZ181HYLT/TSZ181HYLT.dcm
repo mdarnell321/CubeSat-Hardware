@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TSZ181HYLT
+D Automotive-grade, very high accuracy (25 uV), high bandwidth (3 MHz), high temperature (150 &#176;C), zero-drift operational amplifiers
+K
+F https://www.st.com/resource/en/datasheet/tsz181h.pdf
+$ENDCMP
+#
+#End Doc Library

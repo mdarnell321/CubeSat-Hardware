@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP14A0455T-E_SN
+D Gate Drivers 4.5A Low Side Dual Inv+Non-Inv Gate Drvr, SOIC-8
+K
+F https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP14A045345-Data-Sheet-DS20005985.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SFH_2240_A01
+D Photodiode 620nm 120pF 1V 60 2-SMD, No Lead, 2.65 x 2.65 -40~125C
+K
+F https://dammedia.osram.info/media/resource/hires/osram-dam-23227890/SFH%202240%20A01_EN.pdf
+$ENDCMP
+#
+#End Doc Library

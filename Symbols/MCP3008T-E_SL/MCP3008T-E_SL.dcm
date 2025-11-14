@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP3008T-E_SL
+D Analog to Digital Converters - ADC Automotive grade 1, 10-bit SAR ADC, SPI, 4-channel
+K
+F 
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MCP1256-E_UN
+#/458607/1482114/2.50/10/4/Power Supply
+DEF MCP1256-E_UN PS 0 30 Y Y 1 F N
+F0 "PS" 1150 300 50 H V L CNN
+F1 "MCP1256-E_UN" 1150 200 50 H V L CNN
+F2 "SOP50P490X110-10N" 1150 100 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00090016.pdf" 1150 0 50 H I L CNN
+F4 "Microchip MCP1256-E/UN, Charge Pump Regulated 100mA 650 kHz, 3.3 V, 10-Pin, MSOP" 1150 -100 50 H I L CNN "Description"
+F5 "1.1" 1150 -200 50 H I L CNN "Height"
+F6 "579-MCP1256-E/UN" 1150 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP1256-E-UN?qs=0L%2FTMJBX%252BQkWHzXJj4qy%252Bg%3D%3D" 1150 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Microchip" 1150 -500 50 H I L CNN "Manufacturer_Name"
+F9 "MCP1256-E/UN" 1150 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X PGOOD 1 0 0 200 R 50 50 0 0 O
+X ~SLEEP 2 0 -100 200 R 50 50 0 0 I
+X C2- 3 0 -200 200 R 50 50 0 0 P
+X C1+ 4 0 -300 200 R 50 50 0 0 P
+X VOUT 5 0 -400 200 R 50 50 0 0 O
+X ~SHDN 10 1300 0 200 L 50 50 0 0 I
+X GND 9 1300 -100 200 L 50 50 0 0 W
+X C1- 8 1300 -200 200 L 50 50 0 0 P
+X VIN 7 1300 -300 200 L 50 50 0 0 I
+X C2+ 6 1300 -400 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1100 100 1100 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

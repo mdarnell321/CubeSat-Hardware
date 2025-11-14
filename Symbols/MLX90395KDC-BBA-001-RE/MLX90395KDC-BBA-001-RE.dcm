@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MLX90395KDC-BBA-001-RE
+D Board Mount Hall Effect/Magnetic Sensors MLX90395BBA.SOIC8.octagon_50mT
+K
+F https://www.melexis.com/-/media/files/documents/datasheets/mlx90395-datasheet-melexis.pdf
+$ENDCMP
+#
+#End Doc Library

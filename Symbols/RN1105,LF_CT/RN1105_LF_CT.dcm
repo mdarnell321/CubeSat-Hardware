@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RN1105,LF_CT
+D Bipolar Transistors - Pre-Biased Bias Resistor Built-in transistor
+K
+F 
+$ENDCMP
+#
+#End Doc Library

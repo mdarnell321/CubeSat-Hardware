@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMP2004DMK-7
+D Dual P-Channel MOSFET  Low On-Resistance  Very Low Gate Threshold Voltage VGS(TH) < 1V  Low Input Capacitance  Fast Switching Speed  Low Input/Output Leakage  ESD Protected Gate  Totally Lead-Free & Fully RoHS Compliant (Notes 1 & 2)  Halogen and Antimony Free. Green Device (Note 3)  Qualified to AEC-Q101 Standards for High Reliability
+K
+F https://www.diodes.com//assets/Datasheets/ds30939.pdf
+$ENDCMP
+#
+#End Doc Library

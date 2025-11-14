@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model MCP14A0455T-E_SN
+#/1355294/1482114/2.50/8/3/Integrated Circuit
+DEF MCP14A0455T-E_SN IC 0 30 Y Y 1 F N
+F0 "IC" 1550 300 50 H V L CNN
+F1 "MCP14A0455T-E_SN" 1550 200 50 H V L CNN
+F2 "SOIC127P600X175-8N" 1550 100 50 H I L CNN
+F3 "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP14A045345-Data-Sheet-DS20005985.pdf" 1550 0 50 H I L CNN
+F4 "Gate Drivers 4.5A Low Side Dual Inv+Non-Inv Gate Drvr, SOIC-8" 1550 -100 50 H I L CNN "Description"
+F5 "1.75" 1550 -200 50 H I L CNN "Height"
+F6 "579-MCP14A0455TE/SN" 1550 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP14A0455T-E-SN?qs=y6ZabgHbY%252ByiH8G0sASF%2FA%3D%3D" 1550 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Microchip" 1550 -500 50 H I L CNN "Manufacturer_Name"
+F9 "MCP14A0455T-E/SN" 1550 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ENA 1 0 0 200 R 50 50 0 0 P
+X INA 2 0 -100 200 R 50 50 0 0 P
+X GND 3 0 -200 200 R 50 50 0 0 P
+X INB 4 0 -300 200 R 50 50 0 0 P
+X ENB 8 1700 0 200 L 50 50 0 0 P
+X ~OUTA~/OUTA/~OUTA 7 1700 -100 200 L 50 50 0 0 P
+X VDD 6 1700 -200 200 L 50 50 0 0 P
+X ~OUTB~/OUTB/OUTB 5 1700 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1500 100 1500 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

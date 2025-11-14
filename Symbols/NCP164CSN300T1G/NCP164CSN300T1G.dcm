@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NCP164CSN300T1G
+D LDO Voltage Regulators LDO 300 MA AD 3.0V ULTRA-LOW NOISE AND HIGH PSRR IN TSOP-5
+K
+F https://componentsearchengine.com/Datasheets/2/NCP164CSN300T1G.pdf
+$ENDCMP
+#
+#End Doc Library

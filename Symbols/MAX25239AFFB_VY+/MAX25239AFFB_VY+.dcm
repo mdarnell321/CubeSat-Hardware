@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX25239AFFB_VY+
+D Automotive 2V to 36V, 6A Buck-Boost Converters
+K
+F https://www.analog.com/MAX25239/datasheet
+$ENDCMP
+#
+#End Doc Library

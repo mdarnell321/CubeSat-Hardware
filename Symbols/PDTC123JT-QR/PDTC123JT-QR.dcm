@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PDTC123JT-QR
+D NEXPERIA - PDTC123JT-QR - Bipolar Pre-Biased / Digital Transistor, Single NPN, 50 V, 100 mA, 2.2 kohm, 47 kohm
+K
+F https://assets.nexperia.com/documents/data-sheet/PDTC123JT-Q.pdf
+$ENDCMP
+#
+#End Doc Library
